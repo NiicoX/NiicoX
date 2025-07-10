@@ -1,5 +1,5 @@
 <h1 align="center">About me 🙋‍♂️</h1>
-<h4 align="center">Hello, my name is Luis; but my friends call me Nico, I'm 25 years old and I'm a certified full stack programmer.</h4>
+<h4 align="center">Hello, my name is Luis; but my friends call me Nico, I'm 27 years old and I'm a certified full stack programmer.</h4>
 <h1></h1>
 <h2 align="center">👨‍💻 Languages and Tools:
 <p></p>
